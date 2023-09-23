@@ -4,7 +4,7 @@ Implementar uma caderneta de vacina, onde esta, tenha o registro das vacinas do 
 Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
 
 
-Repositórios: 
+Repositórios:
     Entrega 2: Plano e roteiro de testes.
     Entrega 3: Junit, Metrics e Coverage.
     Entrega 4: Implementação do projeto
