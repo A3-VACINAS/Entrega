@@ -16,7 +16,13 @@ Repositórios:
 🛠 Tecnologias utilizadas.
 
 Git.
+
 Eclipse.
+
 JUinit.
+
 Intellij IDEA.
+
 Java.
+
+MySql
