@@ -1,6 +1,7 @@
 PROJETO CADERNETA DE VACINAS.
 
-implementar um pequeno sistema CRUD no padrão MVC com no mínimo 10 classes. 
+Implementar uma caderneta de vacina, onde esta, tenha o registro das vacinas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
+Neste projeto teremos no mínimo 10 classes, em um app web.
 
 Repositórios: 
 
