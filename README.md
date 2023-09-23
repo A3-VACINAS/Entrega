@@ -1,4 +1,4 @@
-PROJETO CRUD
+PROJETO CRUD.
 
 implementar um pequeno sistema CRUD no padrão MVC com no mínimo 10 classes. 
 
@@ -9,10 +9,10 @@ Repositórios:
  Entrega 4: Implementação do projeto
  Entrega 5: Apresentação.
  
-🛠 Tecnologias utilizadas
+🛠 Tecnologias utilizadas.
 
-Git
-Eclipse
-JUinit
-Intelliji IDEA
-Java
+Git.
+Eclipse.
+JUinit.
+Intellij IDEA.
+Java.
