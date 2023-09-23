@@ -1,4 +1,4 @@
-PROJETO CRUD.
+PROJETO CADERNETA DE VACINAS.
 
 implementar um pequeno sistema CRUD no padrão MVC com no mínimo 10 classes. 
 
