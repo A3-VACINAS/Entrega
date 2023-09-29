@@ -18,3 +18,5 @@ Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
     Intellij IDEA.
     JavaScript.
     XAMPP
+
+## Entrega 2
