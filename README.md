@@ -16,5 +16,5 @@ Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
     Eclipse.
     JUinit.
     Intellij IDEA.
-    Java.
-    MySql
+    JavaScript.
+    XAMPP
