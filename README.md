@@ -19,13 +19,15 @@ Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
 
 
 ## Repositórios:
-## Entrega 2: Plano e roteiro de testes.
-## Entrega 3: Junit, Metrics e Coverage.
-## Entrega 4: Implementação do projeto.
-## Entrega 5: Apresentação.
+
+ Entrega 2: Plano e roteiro de testes.
+ Entrega 3: Junit, Metrics e Coverage.
+ Entrega 4: Implementação do projeto.
+ Entrega 5: Apresentação.
  
  
 ## 🛠 Tecnologias utilizadas.
+
     Git.
     Eclipse.
     JUinit.
