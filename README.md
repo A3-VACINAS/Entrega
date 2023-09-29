@@ -20,3 +20,4 @@ Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
     XAMPP
 
 ## Entrega 2
+https://github.com/A3-VACINAS/Entrega-2-Plano-e-roteiro-de-testes.
