@@ -1,5 +1,5 @@
 
-## E-MUNIZE
+## E-MUNIZE✔
 
 
 
@@ -12,13 +12,13 @@
 
 
 
-# PROJETO CADERNETA DE VACINAS.
+# 📙PROJETO CADERNETA DE VACINAS.📖
 
 Implementar uma caderneta de vacinação em aplicação web, onde, tenha o registro de todas as vacinas, datas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
 Neste projeto teremos no mínimo 10 classes.
 
 
-## Repositórios:
+## ⚔Repositórios:
 
  Entrega 2: Plano e roteiro de testes.
  
@@ -38,4 +38,4 @@ Neste projeto teremos no mínimo 10 classes.
     JavaScript.
     XAMPP
 
-## Classes do projeto.
+## 📒Classes do projeto.
