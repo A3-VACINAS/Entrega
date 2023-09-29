@@ -14,8 +14,8 @@
 
 # PROJETO CADERNETA DE VACINAS.
 
-Implementar uma caderneta de vacinação, onde esta, tenha o registro de todas as vacinas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
-Neste projeto teremos no mínimo 10 classes, em uma aplicação web.
+Implementar uma caderneta de vacinação em aplicação web, onde, tenha o registro de todas as vacinas, datas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
+Neste projeto teremos no mínimo 10 classes.
 
 
 ## Repositórios:
