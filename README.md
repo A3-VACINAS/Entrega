@@ -34,7 +34,7 @@ Neste projeto teremos no mínimo 10 classes.
 
 🚩 Entrega 5: Apresentação.
  
-⚡Responsáveis: Hícaro Pires & André Cesár
+⚡Responsáveis: Hícaro Pires & André César
  
 ## 🛠 Tecnologias utilizadas.
 
