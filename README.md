@@ -39,3 +39,14 @@ Neste projeto teremos no mínimo 10 classes.
     XAMPP
 
 ## 📒Classes do projeto.
+
+   ✏  CadastroUsuarios.
+   ✏  Login.
+   ✏  Encriptação.
+   ✏  BancoVacinas.
+   ✏  Vacinas.
+   ✏  AlertaDeVacinas.
+   ✏  Dependentes.
+   ✏  ConsultaLocal.
+   ✏  InformaçõesVacinas.
+   ✏  vacinasViagem.
