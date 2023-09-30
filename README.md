@@ -41,12 +41,21 @@ Neste projeto teremos no mínimo 10 classes.
 ## 📒Classes do projeto.
 
    ✏  CadastroUsuarios.
+   
    ✏  Login.
+   
    ✏  Encriptação.
+   
    ✏  BancoVacinas.
+   
    ✏  Vacinas.
+   
    ✏  AlertaDeVacinas.
+   
    ✏  Dependentes.
+   
    ✏  ConsultaLocal.
+   
    ✏  InformaçõesVacinas.
+   
    ✏  vacinasViagem.
