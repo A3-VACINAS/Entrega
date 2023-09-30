@@ -20,19 +20,19 @@ Neste projeto teremos no mínimo 10 classes.
 
 ## ⚔Repositórios:
 
- Entrega 2: Plano e roteiro de testes.
+🚩 Entrega 2: Plano e roteiro de testes.
  
 ⚡ Responsáveis: Lucas Peres
 
- Entrega 3: Junit, Metrics e Coverage.
+🚩 Entrega 3: Junit, Metrics e Coverage.
  
 ⚡ Responsáveis: André Prado
 
- Entrega 4: Implementação do projeto.
+🚩 Entrega 4: Implementação do projeto.
  
 ⚡ Responsáveis: Lucas Carrion & Eduardo Lins
 
- Entrega 5: Apresentação.
+🚩 Entrega 5: Apresentação.
  
 ⚡Responsáveis: Hícaro Pires & André Cesár
  
