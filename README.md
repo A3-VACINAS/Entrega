@@ -1,11 +1,11 @@
-📖 <h1> PROJETO CADERNETA DE VACINAS. 💉 </h1>
+<h1> 📖 PROJETO CADERNETA DE VACINAS. 💉 </h1>
 
 Caderneta digital E-Munize.
 
 Implementar uma caderneta de vacina, onde esta, tenha o registro das vacinas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
 Neste projeto teremos no mínimo 10 classes, em um app web.
 
-🖥 Repositórios: 🔌
+<h1> 🖥 Repositórios: 🔌 </h1>
 
     📌 Entrega 2: Plano e roteiro de testes.
     
@@ -18,7 +18,7 @@ Neste projeto teremos no mínimo 10 classes, em um app web.
     📌 Entrega 5: Apresentação.
  
  
-🛠 Tecnologias utilizadas: ⚔
+<h1>🛠  Tecnologias utilizadas: ⚔ </h1>
 
   ⚔  Git.
     
