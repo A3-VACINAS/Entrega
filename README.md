@@ -2,14 +2,14 @@
 
 Caderneta digital E-Munize.
 
- <strong> Implementar uma caderneta de vacina, onde esta, tenha o registro das vacinas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
-Neste projeto teremos no mínimo 10 classes, em um app web. </strong>
+Implementar uma caderneta de vacina, onde esta, tenha o registro das vacinas do cidadão, para o mesmo ter um controle atualizado das mesmas. 
+Neste projeto teremos no mínimo 10 classes, em um app web.
 
 <h1> 🖥 Repositórios: 🔌 </h1>
 
     📌 Entrega 2: Plano e roteiro de testes.
     
-    📌  Entrega 3: Junit, Metrics e Coverage.
+    📌 Entrega 3: Junit, Metrics e Coverage.
     
     📌 Entrega 4: Implementação do projeto.
     
