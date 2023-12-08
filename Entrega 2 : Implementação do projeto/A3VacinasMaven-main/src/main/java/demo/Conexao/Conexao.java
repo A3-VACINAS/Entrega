@@ -2,6 +2,8 @@ package demo.Conexao;
 
 import java.sql.*;
 
+
+
 public class Conexao {
     
     public static String URL =
@@ -22,11 +24,15 @@ public class Conexao {
         try{
             dbconn = DriverManager.getConnection(URL, User, Pwd);
             if (dbconn != null) {
+
+                
+               
                 System.out.println("Conectado com sucesso em: " + URL);
                 return dbconn;
                 
             }else{
                 sqlmgr = dbconn.createStatement();//cria objetos para o sqls
+                
                 //get(sqlmgr);
 
             }
