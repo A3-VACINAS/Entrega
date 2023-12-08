@@ -14,6 +14,10 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.WindowConstants;
 
+import java.util.ArrayList;
+import java.util.List;
+
+
 import demo.DAO.DAOlogin;
 
 
@@ -79,9 +83,9 @@ public class CadastroLogin extends JFrame {
               
              if(insert.CadastrarUsuarioFrame(nomes, senhas, emails, cpfs, dataNascs)){
                 JOptionPane.showMessageDialog(CadastroLogin.this,
-                "Login valido",
+                "Dados validos",
                 "Cadastro feito com sucesso",
-                JOptionPane.YES_OPTION);
+                JOptionPane.INFORMATION_MESSAGE);
             }
             else 
             {
